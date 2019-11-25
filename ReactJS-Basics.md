@@ -1,6 +1,4 @@
-<span style="color:red; font-size:1.5em;">
-  ## 1. React vs Angular (Difference) - Difference in processing the DOM
-</span>
+# 1. React vs Angular (Difference) - Difference in processing the DOM
 
 ### **Definition:**
 - Angular JS is a Javascript **framework** written in TypeScript. Developed by Google.
@@ -18,9 +16,7 @@
 
 [Reference...](https://programmingwithmosh.com/javascript/stateful-stateless-components-react/)
 
-<span style="color:red; font-size:1.5em;">
-  ## 2. Stateless vs stateful components
-</span>
+# 2. Stateless vs stateful components
 
 The difference between stateless and the stateful, is that the stateless doesn't have state and the stateful has a state.
 
@@ -55,7 +51,3 @@ const BooksList = ({books}) => {
  )
 }
 ```
-
-<span style="color:red; font-size:1.5em;">
-  ## 3. What is JSX
-</span>
