@@ -1,5 +1,5 @@
 <span style="color:red; font-size:1.5em;">
-  1. React vs Angular (Difference) - Difference in processing the DOM
+  ## 1. React vs Angular (Difference) - Difference in processing the DOM
 </span>
 
 ### **Definition:**
@@ -19,7 +19,7 @@
 [Reference...](https://programmingwithmosh.com/javascript/stateful-stateless-components-react/)
 
 <span style="color:red; font-size:1.5em;">
-  2. Stateless vs stateful components
+  ## 2. Stateless vs stateful components
 </span>
 
 The difference between stateless and the stateful, is that the stateless doesn't have state and the stateful has a state.
@@ -57,5 +57,5 @@ const BooksList = ({books}) => {
 ```
 
 <span style="color:red; font-size:1.5em;">
-  3. What is JSX
+  ## 3. What is JSX
 </span>
