@@ -9,7 +9,7 @@
 
 
 # 1. Box Model
-![d](box-model.PNG)
+![d](./images/box-model.PNG)
 
 # 2. Display
 
