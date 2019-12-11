@@ -1,8 +1,8 @@
 # SELECTORES
 
 ## Que etiqueta tendrá el color rojo?
-![](/iq1.PNG)
-![](/iq2.PNG)
+![](./images/iq1.PNG)
+![](./images/iq2.PNG)
 
 ### 1. `(p + h1)` => La etiqueta `p` tendrá el color rojo.
 ### 2. `(p ~ h1)` => La etiqueta h1 tendrá el color rojo.
@@ -81,10 +81,10 @@ div strong {
 ```
 
 Ejemplos:
-![](/Ejemplo1.PNG)
-![](/Ejemplo2.PNG)
-![](/Ejemplo3.PNG)
-![](/Ejemplo4.PNG)
+![](./images/Ejemplo1.PNG)
+![](./images/Ejemplo2.PNG)
+![](./images/Ejemplo3.PNG)
+![](./images/Ejemplo4.PNG)
 
 # box-sizing
 Este indica como va a ser calculado el ancho y el alto del elemento.
@@ -94,10 +94,10 @@ Este indica como va a ser calculado el ancho y el alto del elemento.
 `border-box`: Le dice al navegador que ajuste el tamaño según el width. Ejemplo si tenemos una caja de 100px y le agregamos un borde o un padding este mismo estará incluído en los 100px;
 
 Ejemplo by default `content-box`
-![](/box-sizing-default.png)
+![](./images/box-sizing-default.png)
 
 Ejemplo with `border-box`
-![](/box-sizing.png)
+![](./images/box-sizing.png)
 ```HTML
 <form class="form">
   <select class="form__select">
@@ -195,7 +195,7 @@ Semantica HTML le da contexto a los lectores de pantalla, que se encarga de leer
 |`<var>`|	        Variable or user defined text
 
 Este un buen ejemplo:
-![](/html-semantic.png)
+![](./images/html-semantic.png)
 
 # Test / Diferencia entre stub, mock, fake.
 
