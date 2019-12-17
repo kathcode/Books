@@ -4,7 +4,7 @@
 2. Display
 3. Background
 4. Measurement units
-
+5. Specificity
 
 
 
@@ -39,7 +39,7 @@ The property background have many options like: image, color, position, repeat a
 
 [Examples here...](https://codepen.io/LeslieMeneses/pen/dyyeKJL)
 
-# Measurement units
+# 4. Measurement units
 We can use measurement relatives and absolute.
 
 `px` is absolute size that we use and will look the same in phone, tablets, desktops etc.
@@ -49,3 +49,8 @@ We can use measurement relatives and absolute.
 `rem` This one is relative to the html font-size.
 
 `%` Is relative to the space available of it content inherited.
+
+
+# 5. Specificity
+It refers to the degree of importance of one style over another.
+[Read more...](https://developer.mozilla.org/en-US/docs/Web/CSS/Specificity)
