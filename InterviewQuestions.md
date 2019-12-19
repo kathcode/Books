@@ -4,7 +4,7 @@
 ![](./images/iq1.PNG)
 ![](./images/iq2.PNG)
 
-### 1. `(p + h1)` => La etiqueta `p` tendrá el color rojo.
+### 1. `(p + h1)` => La etiqueta h1 tendrá el color rojo.
 ### 2. `(p ~ h1)` => La etiqueta h1 tendrá el color rojo.
 ### 3. `(p, h1)` => Los dos tendrán el color rojo.
 ### 4. `(p > h1)` => La etiqueta h1 tendrá el color rojo.
