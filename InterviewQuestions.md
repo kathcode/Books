@@ -196,6 +196,7 @@ Semantica HTML le da contexto a los lectores de pantalla, que se encarga de leer
 
 Este un buen ejemplo:
 ![](./images/html-semantic.png)
+[Leer más...](https://developer.mozilla.org/en-US/docs/Learn/Accessibility)
 
 # Test / Diferencia entre stub, mock, fake.
 
