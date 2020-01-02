@@ -1,1 +1,1 @@
-# 1. Learning JavaScript Design Patterns
+# 1. Go to the wiki
