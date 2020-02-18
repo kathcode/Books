@@ -1,1 +1,1 @@
-# Basic concepts of Front-end development
+# Basic development notes
