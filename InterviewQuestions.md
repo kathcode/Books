@@ -98,6 +98,8 @@ Ejemplo by default `content-box`
 
 Ejemplo with `border-box`
 ![](./images/box-sizing.png)
+
+# CSS Methodologies
 ```HTML
 <form class="form">
   <select class="form__select">
